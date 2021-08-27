@@ -1,6 +1,6 @@
 # rcdu
 
-### Ubuntu Server 20.04.2 LTS
+### Ubuntu Server 20.04.3 LTS
 
 Node 1 | IPv4
 ---|---
