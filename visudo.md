@@ -19,3 +19,8 @@ comment `/swap.img` line:
 ```bash
 sudo vim /etc/fstab
 ```
+
+add the following in `~/.bashrc`
+```bash
+export EDITOR=vim
+```
