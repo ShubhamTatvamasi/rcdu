@@ -8,3 +8,7 @@ virt-clone \
   --file /var/lib/libvirt/images/Blockchain_Besu_21.qcow2
 ```
 
+update address IP:
+```bash
+sudo vim /etc/netplan/00-installer-config.yaml
+```
