@@ -12,3 +12,8 @@ update address IP:
 ```bash
 sudo vim /etc/netplan/00-installer-config.yaml
 ```
+
+apply network changes:
+```bash
+sudo netplan apply
+```
