@@ -26,3 +26,9 @@ Name Servers | 8.8.8.8, 8.8.4.4
 
 User: rcdu \
 Pass: rcdurama
+
+Xen: root \
+Pass: rcdurama
+
+XO: xo \
+Pass: rcdurama
