@@ -40,6 +40,6 @@ pvresize /dev/sda3
 
 Extend Logical volume:
 ```bash
-lvextend --resizefs -l +100%FREE /dev/mapper/XSLocalEXT--ca2e197d--1c66--29cc--966b--22085da4cbb8-ca2e197d--1c66--29cc--966b--22085da4cbb8
+lvextend --resizefs -l +100%FREE /dev/mapper/XSLocalEXT--c43bd674--eda4--5ab4--498f--75978ad83704-c43bd674--eda4--5ab4--498f--75978ad83704
 ```
 > `reboot` after this
