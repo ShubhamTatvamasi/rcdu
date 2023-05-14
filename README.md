@@ -32,3 +32,15 @@ Pass: rcdurama
 
 XO: xo \
 Pass: rcdurama
+
+---
+
+List the `xo-ce` VM:
+```bash
+xe vm-list | grep -C 1 xo-ce
+```
+
+Start the VM:
+```bash
+xe vm-start uuid=29549638-fec4-2d3f-1d5f-fbac95d83900
+```
