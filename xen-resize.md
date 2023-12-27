@@ -9,6 +9,7 @@ Fix GPT:
 ```bash
 sgdisk -e /dev/sda
 ```
+> `reboot` after this
 
 Now resize /dev/sda3 partition:
 ```bash
